@@ -10,7 +10,7 @@ I am a passionate software developer with a focus on web and mobile application 
 
 ## 📫 Contact Information
 - **Email:** leantruong.work@gmail.com
-- **LinkedIn:** [Truong An]((https://www.linkedin.com/in/le-truong-an-6091792a3/))
+- **LinkedIn:** [Truong An](https://www.linkedin.com/in/le-truong-an-6091792a3/)
 - **Phone:** +84 374 483 942
 
 ---
